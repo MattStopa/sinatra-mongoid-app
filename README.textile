@@ -4,4 +4,4 @@ A template "Sinatra":http://www.sinatrarb.com application configured for using a
 
 It works out of the box with Heroku and the "MongoHQ add-on":http://addons.heroku.com/mongohq.
 
-by "Matt Stopa":http://www.mattstopa.com"
+by "Matt Stopa":http://www.mattstopa.com
